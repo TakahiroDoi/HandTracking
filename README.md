@@ -4,5 +4,9 @@
 * .gitignore: https://gist.github.com/MOOOWOOO/3cf91616c9f3bbc3d1339adfc707b08a
 
 ## Note 
-* HandTrackingMin.py 
+* main.py 
   * Set **external_monitor_to_right** to **True** to show the widow in the external monitor right to your main monitor. 
+ 
+* Camera view
+  * In the popup window, frames per second is shown on the upper left.
+  * Press **q** to quit.

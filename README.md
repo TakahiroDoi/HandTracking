@@ -10,3 +10,8 @@
 * Camera view
   * In the popup window, frames per second is shown on the upper left.
   * Press **q** to quit.
+
+## Hand landmarks 
+![Hand landmarks](hand_landmarks.png)
+source: https://google.github.io/mediapipe/solutions/hands.html
+
